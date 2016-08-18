@@ -1,1 +1,3 @@
 sentry-github
+sentry-auth-github
+sentry-slack
